@@ -22,4 +22,4 @@ JAVASCRIPT
 *******************************************************************************************************
 
 
-Você pode encontrar o projeto original da professora nesse ![link](https://github.com/SpruceGabriela/genesis-dio)
+Você pode encontrar o projeto original da professora nesse 🚀 [link](https://github.com/SpruceGabriela/genesis-dio)
